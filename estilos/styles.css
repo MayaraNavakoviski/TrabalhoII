@@ -1,0 +1,42 @@
+body {
+
+  color: #e1ddf5;
+  background: #010846;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  width: 60%;
+  margin: auto;
+  padding: 2% 0;
+
+}
+
+
+h1 {
+
+  color: #5F0F40;
+  text-align: center;
+
+}
+
+h2 {
+
+  color: rgb(255, 59, 59);
+
+}
+
+
+header,
+main {
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 2% 0;
+
+  /*Centralizar caixas na página*/
+}
+
+
+.centralize-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 40%;
+  height: auto;
+}
